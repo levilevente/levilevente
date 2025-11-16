@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="363" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMzMjMyNzYsIm5iZiI6MTc2MzMyMjk3NiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE2VDE5NTYxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ1MWEyMjY2YmYzMzU1MDBiMDQxZGIzYWVmZTI1MDlhMWM2MDRiYmZhMGRlMTRjN2ExY2YxN2ExZDQwN2VjNDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.RoBFTjfz__Ch0UcMY0--lhkVpu9JJPcy5oTIu5mChgM"  />
+  <img height="363" src="https://images.steamusercontent.com/ugc/795365490129287872/9A92E292728E4B34F7384FB39AED46D83386FD96/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 </div>
 
 ###
@@ -15,6 +15,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=levilevente.levilevente&left_color=blueviolet&left_text=Visitors"  />
 </div>
+
 
 ###
 
