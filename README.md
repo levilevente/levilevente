@@ -29,9 +29,11 @@
 
 <p align="center">I'm Levi<br><br>I’m a passionate software developer who enjoys building clean, scalable systems and solving real-world problems through code.<br>I work across multiple technologies and love learning, experimenting, and improving every day.</p>
 
+<br/>
+
 ###
 
-<h3 align="center">🛠 Language</h3>
+<h3 align="left">🛠 Language</h3>
 
 ###
 
@@ -53,7 +55,7 @@
 
 ###
 
-<h3 align="center">🧩 Frameworks / Tools</h3>
+<h3 align="left">🧩 Frameworks / Tools</h3>
 
 ###
 
@@ -77,7 +79,7 @@
 
 ###
 
-<h3 align="center">🛢 DB</h3>
+<h3 align="left">🛢 DB</h3>
 
 ###
 
@@ -87,6 +89,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+</div>
+
+###
+
+###
+
+<h3 align="left">🚀 Deployment</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
 </div>
 
 ###
