@@ -1,7 +1,9 @@
+
+
 <div align="center">
   <picture>
-  <img alt="contribution graph" src="https://github.com/levilevente/levilevente/blob/d5ea90043f8e369ffa26a8f648c3f96663067ee3/profile-3d-contrib/profile-night-rainbow.svg">
-</picture>
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hey%20There!&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
+  </picture>
 </div>
 
 ###
@@ -17,15 +19,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=levilevente.levilevente&left_color=blueviolet&left_text=Visitors"  />
 </div>
-
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
@@ -109,6 +102,8 @@
 
 ###
 
-
+  <picture>
+    <img alt="contribution graph" src="https://github.com/levilevente/levilevente/blob/d5ea90043f8e369ffa26a8f648c3f96663067ee3/profile-3d-contrib/profile-night-rainbow.svg">
+  </picture>
 
 ###
