@@ -108,9 +108,7 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/levilevente/levilevente/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/levilevente/levilevente/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/levilevente/levilevente/output/pacman-contribution-graph.svg">
+  <img alt="contribution graph" src="https://github.com/levilevente/levilevente/blob/d5ea90043f8e369ffa26a8f648c3f96663067ee3/profile-3d-contrib/profile-night-rainbow.svg">
 </picture>
 
 ###
