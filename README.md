@@ -1,5 +1,7 @@
 <div align="center">
-  <img height="363" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfw57vd-41cd19ce-cec2-4d6d-8b00-8803e87ea416.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGZ3NTd2ZC00MWNkMTljZS1jZWMyLTRkNmQtOGIwMC04ODAzZTg3ZWE0MTYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.glcecELiUpD6MgAcvhHHmEkZdBQ_7th_oBZeOopz3jo"/>
+  <picture>
+  <img alt="contribution graph" src="https://github.com/levilevente/levilevente/blob/d5ea90043f8e369ffa26a8f648c3f96663067ee3/profile-3d-contrib/profile-night-rainbow.svg">
+</picture>
 </div>
 
 ###
@@ -107,8 +109,6 @@
 
 ###
 
-<picture>
-  <img alt="contribution graph" src="https://github.com/levilevente/levilevente/blob/d5ea90043f8e369ffa26a8f648c3f96663067ee3/profile-3d-contrib/profile-night-rainbow.svg">
-</picture>
+
 
 ###
