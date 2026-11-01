@@ -1,109 +1,67 @@
-
-
 <div align="center">
-  <picture>
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hey%20There!&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
-  </picture>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1b1b3a&height=200&section=header&text=Levi&fontSize=64&fontColor=00f5ff&fontAlignY=45&desc=Software%20Developer&descSize=18&descColor=8b949e&descAlignY=68&animation=fadeIn" width="100%" alt="header"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=00F5FF&center=true&vCenter=true&width=640&height=30&lines=Clean+code.+Scalable+systems.;Full-stack+development+and+cloud+infrastructure.;Learning+and+improving+every+day." alt="typing animation"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/levente-daroczi-2694542b7" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=00f5ff&labelColor=0d1117&color=1b1b3a" alt="LinkedIn"/>
+</a>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=levilevente.levilevente&left_color=0d1117&right_color=1b1b3a&left_text=Visitors&style=flat-square" alt="visitors"/>
+
 </div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/levente-daroczi-2694542b7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=levilevente.levilevente&left_color=blueviolet&left_text=Visitors"  />
-</div>
-
-###
-
-<p align="center">I'm Levi<br><br>I’m a passionate software developer who enjoys building clean, scalable systems and solving real-world problems through code.<br>I work across multiple technologies and love learning, experimenting, and improving every day.</p>
 
 <br/>
 
-###
-
-<h3 align="left">🛠 Language</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,00f5ff,7b2ff7,ff00e5&height=2&section=header" width="60%" alt="divider"/>
 </div>
 
-###
+<br/>
 
-<h3 align="left">🧩 Frameworks / Tools</h3>
+<p align="center">
+  I build clean, scalable systems and solve real-world problems through code.<br/>
+  I work across multiple technologies and keep learning, experimenting and improving.
+</p>
 
-###
+<br/>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+<div align="center">
+
+### Stack
+
+<table>
+  <tr>
+    <td align="right"><sub><b>LANGUAGES</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,py,java,cs,cpp,c&theme=dark" alt="languages"/></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>FRAMEWORKS</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=react,spring,flask,selenium,bootstrap,materialui&theme=dark" alt="frameworks"/></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>DATABASES</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,dynamodb&theme=dark" alt="databases"/></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>CLOUD</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker&theme=dark" alt="cloud"/></td>
+  </tr>
+</table>
+<br/>
+
+<div align="center">
+
+<picture>
+  <img alt="contribution graph" src="https://github.com/levilevente/levilevente/blob/d5ea90043f8e369ffa26a8f648c3f96663067ee3/profile-3d-contrib/profile-night-rainbow.svg"/>
+</picture>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1b1b3a,100:0d1117&height=80&section=footer" width="100%" alt="footer"/>
+
 </div>
-
-###
-
-<h3 align="left">🛢 DB</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-</div>
-
-###
-
-###
-
-<h3 align="left">🚀 Deployment</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
-</div>
-
-###
-
-  <picture>
-    <img alt="contribution graph" src="https://github.com/levilevente/levilevente/blob/d5ea90043f8e369ffa26a8f648c3f96663067ee3/profile-3d-contrib/profile-night-rainbow.svg">
-  </picture>
-
-###
